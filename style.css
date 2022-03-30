@@ -367,9 +367,9 @@ body .sm-clean li.current_page_item > a {
 }
 
 .section h3.entry-title {
-    font-size: 16px;
+    font-size: 24px;
     line-height: 149%;
-    font-weight: 400;
+    font-weight: 900;
     word-break: break-word;
     text-align: center;
     color: #fff;
@@ -411,6 +411,7 @@ body .sm-clean li.current_page_item > a {
 
 .title-description-up {
     font-size: 16px;
+    font-weight: bold;
     margin-bottom: 0;
     letter-spacing: 2px;
 }
@@ -1003,6 +1004,7 @@ company-image{
     line-height: 0;
     width: 100%;
     overflow: hidden;
+    margin-top: 10%;
 }
 
 .grid-item.p_one_fourth {
